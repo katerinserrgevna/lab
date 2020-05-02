@@ -1,0 +1,15 @@
+﻿  7_4.cpp
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(440,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(436): message : во время компиляции функции-члена класс шаблон "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::longest_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(552): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::longest_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.cpp(19): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Red_Black<std::string,std::vector<contract,std::allocator<contract>>>"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(425,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(420): message : во время компиляции функции-члена класс шаблон "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::expst_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(547): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::expst_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(413,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(409): message : во время компиляции функции-члена класс шаблон "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::contract_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(542): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::contract_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(401,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(397): message : во время компиляции функции-члена класс шаблон "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::sum_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+C:\Users\Katia\source\repos\7_4\7_4\7_4.h(537): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::sum_(Red_Black<std::string,std::vector<contract,std::allocator<contract>>>::Node *)"
+  7_4.vcxproj -> C:\Users\Katia\source\repos\7_4\Debug\7_4.exe
